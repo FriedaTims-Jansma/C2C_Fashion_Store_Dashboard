@@ -7,6 +7,6 @@ https://public.tableau.com/app/profile/frieda.tims.jansma/viz/C2C-E-commerce-Das
 
 
 
-<a href="https://public.tableau.com/app/profile/frieda.tims.jansma/viz/C2C-E-commerce-Dashboard/c2c_fashion_store_dashboard?publish=yes" target="_blank"> <img src="https://github.com/FriedaTims-Jansma/C2C_Fashion_Store_Dashboard/blob/main/c2c_e-commerce_screenshot.png" alt="C2C Dashboard" style="max-width: 100%;"/> </a> 
+<a href="https://public.tableau.com/app/profile/frieda.tims.jansma/viz/C2C-E-commerce-Dashboard/c2c_fashion_store_dashboard?publish=yes" target="_blank"> <img src="https://github.com/FriedaTims-Jansma/C2C_Fashion_Store_Dashboard/blob/main/Screenshot_fashion_store.png" alt="C2C Dashboard" style="max-width: 100%;"/> </a> 
 
 Data Source --> https://www.kaggle.com/jmmvutu/ecommerce-users-of-a-french-c2c-fashion-store
