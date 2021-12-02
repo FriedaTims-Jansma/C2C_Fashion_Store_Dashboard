@@ -1,5 +1,5 @@
 # C2C_Fashion_Store_Dashboard
-Portfolio Project: Created a dashboard with SQL &amp; Tableau about user behavior on a C2C fashion platform. 
+Portfolio Project: Created a dashboard with SQL &amp; Tableau about user demographics and user behavior on a C2C fashion platform. 
 
 
 Please check-out the dashboard via this link on Tableau Public --> <br>
